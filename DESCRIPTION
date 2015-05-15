@@ -1,0 +1,10 @@
+Package: jenkinstest
+Type: Package
+Title: Testing Jenkins automation
+Version: 1.0
+Date: 2015-05-15
+Author: Me
+Maintainer: Me <me@somewhere.net>
+Description: Look I'm testing Jenkins alright?
+License: MIT
+Suggests: testthat
