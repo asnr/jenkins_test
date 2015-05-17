@@ -16,4 +16,3 @@ test_that("multiplication doesn't work", {
 test_that("Another test", {
     expect_equal(T, T)
 })
-
